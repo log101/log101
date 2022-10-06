@@ -9,10 +9,12 @@
   - Ruby on Rails, Django, Flutter
   - (My, Postgre)SQL, MongoDB, Firebase
   - GNU/Linux Administration, Docker/Compose, Vagrant, Bash, Emacs(>Vim)
-  - Haskell, C, Java, GDB for [Hackerrank](https://www.hackerrank.com/frknerdm), [Leetcode](https://leetcode.com/frknerdm/) and [Codewars](https://www.codewars.com/users/log101)
+  - Haskell, C, GDB, Java
   - Arduino and RPi
   - [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
-  
+
+- 🚴‍♂️ Competitive Programming : [Hackerrank](https://www.hackerrank.com/frknerdm), [Leetcode](https://leetcode.com/frknerdm/) and [Codewars](https://www.codewars.com/users/log101)
+
 - 👷‍♂️ My Stackshare: https://stackshare.io/log101/my-stack
 
 - 🏆 I love hackathons: https://devpost.com/log101
