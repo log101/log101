@@ -15,7 +15,7 @@
   
 - 👷‍♂️ My Stackshare: https://stackshare.io/log101/my-stack
 
-- 📫 How to reach me:
+- 📫 How to reach me (don't hesitate):
   - [LinkedIn](https://www.linkedin.com/in/furkan-erdem-506548218/)
   - ffrknerdm@gmail.com
   
