@@ -15,6 +15,8 @@
   
 - 👷‍♂️ My Stackshare: https://stackshare.io/log101/my-stack
 
+- 🏆 I love hackathons: https://devpost.com/log101
+
 - 📫 How to reach me (don't hesitate):
   - [LinkedIn](https://www.linkedin.com/in/furkan-erdem-506548218/)
   - ffrknerdm@gmail.com
