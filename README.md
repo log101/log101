@@ -8,8 +8,8 @@
   - Javscript, NodeJS, React, Redux, Jest, Cypress
   - Ruby on Rails, Django, Flutter
   - (My, Postgre)SQL, MongoDB, Firebase
-  - GNU/Linux Administration, Docker/Compose, Vagrant, Bash, Emacs(>Vim)
-  - Haskell, C, GDB, Java
+  - GNU/Linux Administration, Docker/Compose, Vagrant, Bash, Emacs(>Vim), GDB
+  - Haskell, C, Java, PHP
   - Arduino and RPi
   - [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
