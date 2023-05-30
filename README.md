@@ -5,7 +5,7 @@
 - 🔭 I’m currently developing web apps with NodeJS and React. See my pinned projects!
 
 - 🧠 I have experience in:
-  - Javascript, NodeJS, React, Redux, Jest, Cypress
+  - Typescript, Javascript, NextJS, React, NodeJS, Redux+Toolkit, Jest, Cypress
   - Ruby on Rails, Django, Flutter
   - (My, Postgre)SQL, MongoDB, Firebase
   - GNU/Linux Administration, Docker/Compose, Vagrant, Bash, Emacs(>Vim), GDB
