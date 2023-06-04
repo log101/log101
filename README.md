@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently developing web apps with NodeJS and React. See my pinned projects!
+- 🔭 I’m currently developing web apps with TS/JS for EdTech. See my pinned projects!
 
 - 🧠 I have experience in:
   - Typescript, Javascript, NextJS, React, NodeJS, Redux+Toolkit, Jest, Cypress
