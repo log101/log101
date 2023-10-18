@@ -1,4 +1,8 @@
-### Hi, I'm Furkan Erdem! ✌️
+## Hey there! I'm Furkan.
+
+![HypnosisGIF](https://github.com/log101/log101/assets/50502021/c80ff14e-5511-471c-87e3-e13ad518040c)
+
+Make sure you take a look at everything. No, no, just don't look at the spiral.
 
 ---
 
