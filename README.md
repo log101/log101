@@ -1,10 +1,9 @@
-## Hey there! I'm Furkan.
+<img alt="cover" src="https://media.giphy.com/media/NNG238baXWvFcbHRdX/giphy.gif" width="1400px" />
 
-![HypnosisGIF](https://github.com/log101/log101/assets/50502021/c80ff14e-5511-471c-87e3-e13ad518040c)
 
-Make sure you take a look at everything. No, no, just don't look at the spiral.
+## Hi!
 
----
+I'm **Furkan**. I love creating useful stuff running on computers.
 
 - 🔭 I’m currently developing web apps with TS/JS for EdTech. See my pinned projects!
 
