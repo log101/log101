@@ -1,30 +1,27 @@
 <img alt="cover" src="https://media.giphy.com/media/NNG238baXWvFcbHRdX/giphy.gif" width="1400px" />
 
 
-## Hi!
+## Merhaba!
 
-I'm **Furkan**. I love creating useful stuff running on computers.
+I'm **Furkan**, a professional debugger.
 
-- 🔭 I’m currently developing web apps with TS/JS for EdTech. See my pinned projects!
+- 🔭 I’m currently contributing to open source, particularly [Astro](https://github.com/withastro/astro).
 
 - 🧠 I have experience in:
-  - Typescript, Javascript, NextJS, React, NodeJS, Redux+Toolkit, Jest, Cypress
-  - Ruby on Rails, Django, Flutter
-  - (My, Postgre)SQL, MongoDB, Firebase
-  - GNU/Linux Administration, Docker/Compose, Vagrant, Bash, Emacs(>Vim), GDB
-  - Haskell, C, Java, PHP
+  - Typescript & Javascript
+  - Node API
+  - Next, Astro, React
+  - Redux, Jest, Cypress, Prism
+  - `SELECT SQL, NoSQL FROM Databases`
+  - GNU/Linux, Docker, Emacs(>Vim)
   - Arduino and RPi
   - [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
-- 🚴‍♂️ Competitive Programming : [Hackerrank](https://www.hackerrank.com/frknerdm), [Leetcode](https://leetcode.com/frknerdm/) and [Codewars](https://www.codewars.com/users/log101)
+- 🏆 I love hackathons: [Devpost](https://devpost.com/log101)
 
-- 👷‍♂️ My Stackshare: https://stackshare.io/log101/my-stack
-
-- 🏆 I love hackathons: https://devpost.com/log101
-
-- 📫 How to reach me (don't hesitate):
+- 📫 Ping me:
   - [LinkedIn](https://www.linkedin.com/in/furkan-erdem-506548218/)
-  - ffrknerdm@gmail.com
+  - [Email](mailto:ffrknerdm@gmail.com)
   
 ### Github Stats
   
