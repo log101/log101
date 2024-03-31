@@ -3,7 +3,7 @@
 
 ## Merhaba!
 
-I'm **Furkan**, a professional debugger.
+I'm **Furkan**, a software developer.
 
 - 🔭 I’m currently contributing to open source, particularly [Astro](https://github.com/withastro/astro).
 
