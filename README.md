@@ -5,7 +5,7 @@
 
 I'm **Furkan**,
 
-- I’m currently focused on contributing to open source, particularly [Astro](https://github.com/withastro/astro). Check out my pinned projects!
+- Currently contributing to [Astro](https://github.com/withastro/astro) and working as a full-time software developer. Check out my pinned projects!
 
 - Please reach out to me at:
   - [LinkedIn](https://www.linkedin.com/in/furkan-erdem-506548218/)
