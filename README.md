@@ -3,10 +3,4 @@
 
 ## 
 
-I'm **Furkan**,
-
-- Currently contributing to [Astro](https://github.com/withastro/astro) and working as a full-time software developer. Check out my pinned projects!
-
-- Please reach out to me at:
-  - [LinkedIn](https://www.linkedin.com/in/furkan-erdem-506548218/)
-  - [Email](mailto:ffrknerdm@gmail.com)
+I'm **Furkan**, working as a full-time software developer at Jekirdek. My main interest is the web platform, browsers, frameworks, and tooling. Check out my [blog](https://blog.log101.dev).
