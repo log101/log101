@@ -4,3 +4,5 @@
 ## 
 
 I'm **Furkan**, working as a full-time software developer at Jekirdek. My main interest is the web platform, browsers, frameworks, and tooling. Check out my [blog](https://blog.log101.dev).
+
+Also find me on <a rel="me" href="https://mastodon.social/@log101" target="_blank">Mastodon</a>
